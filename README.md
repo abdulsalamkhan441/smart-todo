@@ -1,9 +1,3 @@
-
----
-
-## ✅ SMART TO-DO — `README.md`
-
-```markdown
 # ✅ Smart To-Do
 
 A powerful and modern to-do list app that helps you stay productive with task priorities, deadlines, and a visual dashboard.
